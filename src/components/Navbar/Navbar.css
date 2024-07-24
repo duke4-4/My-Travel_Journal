@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  nav {
+    background: #ff4c4d;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 1.2rem;
+  }
+}
